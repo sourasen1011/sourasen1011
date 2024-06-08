@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sourasen1011
+- 👋 Hi, I’m Souradeep
 - 👀 I’m interested in statistics, data science, machine learning and in general, anything quantitative 
-- 🌱 I’m currently studying Data Science
+- 🌱 My background is in Data Science and Civil Engineering
 - 📫 How to reach me - souradeepsen2711@gmail.com
 
 <!---
